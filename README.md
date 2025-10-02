@@ -44,12 +44,11 @@ Ensures changes take effect and improves performance.<br>
    Safety: ✅ Safe <br>
    Action Taken: Kept <br>
 
-2. McAfee® WebAdvisor
-   Developer: McAfee LLC
-   Purpose: Protects against risky sites, checks downloads for threats.
-   Safety: ✅ Safe
-   Action Taken: Kept
-
+2. McAfee® WebAdvisor <br>
+   Developer: McAfee LLC <br>
+   Purpose: Protects against risky sites, checks downloads for threats.<br>
+   Safety: ✅ Safe<br>
+   Action Taken: Kept<br>
 #### Extensions Removed
 None both extensions reviewed and confirmed safe(images provided below).
 
@@ -58,4 +57,4 @@ Browser performance: Normal.<br>
 Startup speed: Unchanged.<br>
 No suspicious behavior observed.<br>
 
-#### Conclusion: Both installed extensions (Google Docs Offline and McAfee® WebAdvisor) are safe and legitimate. No removals were necessary.
+#### Conclusion: <br> Both installed extensions (Google Docs Offline and McAfee® WebAdvisor) are safe and legitimate. No removals were necessary.
