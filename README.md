@@ -1,4 +1,4 @@
-# Task-7::Identify and Remove Suspicious Browser Extensions
+# Task-7:Identify and Remove Suspicious Browser Extensions
 
 ### Objective:  Learn to spot and remove potentially harmful browser extensions.
 ### Tools: Web browser (Chrome)
